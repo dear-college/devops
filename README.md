@@ -9,6 +9,7 @@ The project should have the following structure:
 ```
 dear.college
 ├── server ── cloned from https://github.com/dear-college/server
+├── client ── cloned from https://github.com/dear-college/client
 └── devops ── cloned from https://github.com/dear-college/devops
 ```
 
@@ -17,8 +18,11 @@ To set up this structure, clone the repositories:
 mkdir dear.college
 cd dear.college
 git clone https://github.com/dear-college/server.git
+git clone https://github.com/dear-college/client.git
 git clone https://github.com/dear-college/devops.git
 ```
+
+Note that the `client` repository is not needed to run the server.
 
 ## dotenv
 
