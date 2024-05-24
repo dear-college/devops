@@ -26,6 +26,7 @@
 
         FRONTEND_PATH="${theFrontend}/lib/node_modules/@dear.college/frontend/src/dist/assets";
         MARKDOWN_PATH=theApp.src;
+        GOOGLE_ANALYTICS="G-BTD9LVGPDZ";
       };
 
       serviceConfig = {
